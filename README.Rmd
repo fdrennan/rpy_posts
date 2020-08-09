@@ -6,15 +6,19 @@ output: github_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# R posts <img src="hex-.png" align="right" width="120" />
+# About 
 
-Posting and promoting recent data science content for the R community.  
+_R posts you might have missed!_ and _Python posts you might have missed!_ are semi-automated twitter accounts posting recent data science related content. The goal is to make it easier to keep up with the most important packages and news from the community. Links to relevant and popular resources are gathered from twitter and the wider data science blogosphere before being processed and lightly curated.  For more information about how the feed works and why it came into being, please check out [this blog post](https://alastairrushworth.github.io/R-Posts-You-Might-Have-Missed!/).
+
+# _R posts you might have missed!_ <img src="hex-.png" align="right" width="120" />
+
+You can follow along for updates on Twitter, Linkedin and Facebook:
 
 <a href = 'https://twitter.com/icymi_r'><img src="twitter.png" alt="drawing" width="30" height="30"/></a>    <a href = 'https://www.linkedin.com/company/37469761/'><img src="linkedin.png" alt="drawing" width="30" height="30"/></a>    <a href = 'https://www.facebook.com/R-posts-you-might-have-missed-111889387146405/'><img src="facebook.png" alt="drawing" width="30" height="30"/></a>
 
-# Python posts <img src="0.jpeg" align="right" width="120" />
+# _Python posts you might have missed!_ <img src="0.jpeg" align="right" width="120" />
 
-Posting and promoting recent data science content for the Python community.  
+You can follow along for updates on Twitter, Linkedin and Facebook:
 
 <a href = 'https://twitter.com/icymi_py'><img src="twitter.png" alt="drawing" width="30" height="30"/></a>    <a href = 'https://www.linkedin.com/company/42419346'><img src="linkedin.png" alt="drawing" width="30" height="30"/></a>    <a href = 'https://www.facebook.com/Python-posts-that-you-might-have-missed-102053681476903'><img src="facebook.png" alt="drawing" width="30" height="30"/></a>
 
